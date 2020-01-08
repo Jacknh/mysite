@@ -1,2 +1,5 @@
-# my-site
-This is a my own site construction project, basicly some blogs, self introduction, and some life records.
+This website is a persional blog site, created by gatsby. 
+
+I wrote this website for recording my blogs relevant to tech, life and some others. No bussines purpose!
+
+--From Jack Zhang
